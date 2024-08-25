@@ -55,7 +55,7 @@ function App() {
   return (
     <>
       <div className="min-h-screen flex flex-col gap-4 items-center justify-center p-4 bg-custom-background bg-center bg-contain">
-        <div className="bg-blue-900/55 p-6 rounded shadow-md w-full max-w-lg lg:w-3/4">
+        <div className="bg-white/70 p-6 rounded shadow-md w-full max-w-lg lg:w-3/4">
           <h1 className="text-3xl font-bold text-center">Todo List</h1>
           <div className="flex ">
             <input

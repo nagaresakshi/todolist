@@ -8,7 +8,7 @@ export default {
         extend: {
             // eslint-disable-next-line no-unused-vars
             backgroundImage: (_) => ({
-                'custom-background': "url('./src/assets/bg.jpeg')"
+                'custom-background': "url('https://catinean.com/content/images/size/w1920/2016/03/time-wallpaper-23.jpg')"
             })
         },
     },
